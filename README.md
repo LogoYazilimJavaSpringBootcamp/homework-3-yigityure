@@ -1,3 +1,7 @@
+### Cevap için
+
+Sadece isbasi uygulamasının soruları yapılmıştır. UserRepository, UserCollector, UserService sınıflarında ve Model paketinde; soruların çözümleri commentler ile eklenmiştir.\
+
 ActiveMQ, Kafka ve RabbitMQ karşılaştırın. Örnek kodlar ile nasıl çalıştığını
 anlatın. (10 Puan)
 
