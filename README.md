@@ -1,6 +1,6 @@
 ### Cevap için
 
-Sadece isbasi uygulamasının soruları yapılmıştır. UserRepository, UserCollector, UserService sınıflarında ve Model paketinde; soruların çözümleri commentler ile eklenmiştir.
+Cevaplar answer branc'indedir.
 \
 &nbsp;
 \
